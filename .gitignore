@@ -1,0 +1,16 @@
+/.idea/
+*.idea/
+*.iml
+*logs/
+*.log
+*.classpath
+*.project
+*.settings/
+*.metadata/
+*.recommenders
+*/target/
+*target/
+*.DS_Store
+HELP.md
+src/main/resources/static/
+src/main/resources/templates/
