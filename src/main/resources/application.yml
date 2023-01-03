@@ -1,0 +1,8 @@
+gaode:
+  api:
+    key: yit
+    domain: https://restapi.amap.com
+spring:
+  mvc:
+    pathmatch:
+      matching-strategy: ANT_PATH_MATCHER
